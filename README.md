@@ -1,2 +1,1 @@
-#Train Ticket Booking System
-Train Ticket Booking System using JavaFX. 
+#Train Ticket Booking System using JavaFX. 
